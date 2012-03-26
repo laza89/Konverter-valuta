@@ -1,0 +1,5 @@
+Konverter valuta
+
+Aplikaciju pokrenuti u browseru preko wamp-a ili nekog drugog servera.
+Bira se zeljeni iznos, valuta iz koje se konvertuje i valuta u koju se konvertuje.
+Pritiskom na dugme konvertuj aplikacija prikazuje rezultat.
